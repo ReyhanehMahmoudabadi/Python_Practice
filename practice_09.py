@@ -17,7 +17,7 @@ if len(odd_numbers) > 0:
     # محاسبه میانگین
     avg = sum(odd_numbers) / len(odd_numbers)
     # چاپ میانگین
-    print(round(avg, 2))
+    print('Average of odd numbers:', round(avg, 2))
 
 # نمایش پیام در صورت نبودن عدد فرد
 else:
