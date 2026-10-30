@@ -41,8 +41,8 @@ while True:
 
             # بررسی شناسه قبض و شناسه پرداخت
             case 5:
-                bill_number = input("Enter your bill ID: ")
-                payment_number = input("Enter your payment ID: ")
+                bill_number = input("Enter your bill id: ")
+                payment_number = input("Enter your payment id: ")
                 result = check_bill_id(bill_number, payment_number)
                 print("Bill information:", result)
 
