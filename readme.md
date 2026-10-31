@@ -15,11 +15,13 @@ This repository contains my Python practice exercises and projects, created to s
 
 - Python Fundamentals
 - Conditions, Loops, and Functions
-- Lists, Dictionaries, and Data Handling
+- Lists and Dictionaries
 - Object-Oriented Programming (OOP)
 - Classes, Modules, and Exception Handling
-- Input Validation and Unit Testing
+- Input Validation
+- Unit Testing with unittest
 - GUI Development with Tkinter
+- Practical Python Projects
 
 ## 📂 Repository Structure
 
@@ -28,13 +30,60 @@ Exercises are organized into separate folders, making each practice task easy to
 ```text
 Python_Practice/
 ├── practice_01/
+│   └── practice_01.py
 ├── practice_02/
-├── ...
-├── practice_12/   # Parking Management
-├── practice_13/   # Contact Management
-├── practice_14/   # Input Validation
-├── practice_15/   # Validation GUI
-└── ...
+│   └── practice_02.py
+├── practice_03/
+│   └── practice_03.py
+├── practice_04/
+│   └── practice_04.py
+├── practice_05/
+│   └── practice_05.py
+├── practice_06/
+│   └── practice_06.py
+├── practice_07/
+│   └── practice_07.py
+├── practice_08/
+│   └── practice_08.py
+├── practice_09/
+│   └── practice_09.py
+├── practice_10/
+│   └── practice_10.py
+├── practice_11/
+│   └── practice_11.py
+├── practice_12/
+│   ├── parking_main.py
+│   ├── parking_module.py
+│   └── parking_test.py
+├── practice_13/
+│   ├── contact_main.py
+│   ├── contact_module.py
+│   └── contact_test.py
+├── practice_14/
+│   ├── validate_main.py
+│   ├── validate_module.py
+│   └── validate_test.py
+├── practice_15/
+│   ├── validation_gui.py
+│   ├── validation_module.py
+│   └── validation_test.py
+├── practice_16/
+│   └── course_management.py
+├── practice_17/
+│   ├── car.py
+│   └── car_test.py
+├── practice_18/
+│   ├── lesson.py
+│   └── lesson_test.py
+├── practice_19/
+│   ├── products.py
+│   └── products_test.py
+├── practice_20/
+│   ├── car.py
+│   └── car_test.py
+└── practice_21/
+    ├── lesson.py
+    └── lesson_test.py
 ```
 
 ## 🛠️ Built With
